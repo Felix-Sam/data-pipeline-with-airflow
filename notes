@@ -1,0 +1,8 @@
+After installing Astro Cli with this command:
+winget install -e --id Astronomer.Astro
+
+Restart vscode and write astro dev init to start your project.
+
+After coding to run your project write astro dev start to start your project
+
+After successfully running your project, when ever you have any new changes use astro dev restart to apply the changes
